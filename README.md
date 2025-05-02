@@ -60,3 +60,5 @@ You can extend this analysis by:
 * Creating maps of the spread of the virus inside of India.
 * Adding daily change graphs.
 * Adding recovery rate calculations.
+
+© 2025 Naren Jamdar. All rights reserved.
